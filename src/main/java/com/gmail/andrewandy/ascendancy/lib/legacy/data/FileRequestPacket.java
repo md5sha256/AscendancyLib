@@ -1,4 +1,4 @@
-package com.gmail.andrewandy.ascendancy.lib.data;
+package com.gmail.andrewandy.ascendancy.lib.legacy.data;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufAllocator;

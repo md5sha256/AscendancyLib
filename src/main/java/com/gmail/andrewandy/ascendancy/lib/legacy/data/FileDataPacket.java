@@ -1,4 +1,4 @@
-package com.gmail.andrewandy.ascendancy.lib.data;
+package com.gmail.andrewandy.ascendancy.lib.legacy.data;
 
 import com.gmail.andrewandy.ascendancy.lib.AscendancyPacket;
 import com.gmail.andrewandy.ascendancy.lib.results.AscendancyResultPacket;
